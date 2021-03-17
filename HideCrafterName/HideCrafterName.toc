@@ -1,0 +1,5 @@
+## Interface: 90005
+## Title: HideCrafterName
+## Version: 1.01
+## Notes: The <Made By...> TheRealDeerez
+HideCrafterName.lua
